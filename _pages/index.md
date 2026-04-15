@@ -47,3 +47,4 @@ permalink: /
 | 内容  | 内容  |
 
 ![image](/GHPages_WebSite/assets/images/サッカー.png)
+![image](/GHPages_WebSite/assets/images/キムチ.png)
