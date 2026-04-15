@@ -20,31 +20,7 @@ permalink: /
 ##### 嫌いな食べ物は辛口のカレー
 ###### 嫌いなスポーツは短距離走
 
-改行は、行末に半角スペースを2個いれる
-次の行
 
-[リンク](https://www.google.co.jp/)
-
-**太字**
-
-> 引用
->> 多重引用
-
-
-- 
-  - 
-    - 
-
-
-1. 
-   1.
-      1. 
-
-
-| 列1  | 列2  |
-|-----|-----|
-| 内容  | 内容  |
-| 内容  | 内容  |
 
 ![image](/GHPages_WebSite/assets/images/サッカー.png)
 ![image](/GHPages_WebSite/assets/images/キムチ.png)
