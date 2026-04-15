@@ -1,6 +1,6 @@
 ---
 title: "自己紹介"
-author: default
+author: 嶌岡陸哉
 permalink: /
 ---
 
