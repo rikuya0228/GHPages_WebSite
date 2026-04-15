@@ -46,4 +46,4 @@ permalink: /
 | 内容  | 内容  |
 | 内容  | 内容  |
 
-![image](/assets/images/サッカー.png)
+![image](/GHPages_WebSite/assets/images/サッカー.png)
